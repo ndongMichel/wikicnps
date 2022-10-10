@@ -169,9 +169,5 @@
         border-top: 3px solid white;
         border-radius: 0px;
     }
-    df-messenger
-    {
-        --df-messenger-bot-message: #33FFCE;
-        --df-messenger-user-message: #335EFF;
-    }
+    
 }
