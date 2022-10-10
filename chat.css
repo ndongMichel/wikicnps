@@ -169,5 +169,8 @@
         border-top: 3px solid white;
         border-radius: 0px;
     }
-    
+    df-messenger
+    {
+        --df-messenger-chat-background-color: #2a49d5;
+    }
 }
